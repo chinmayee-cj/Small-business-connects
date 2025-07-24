@@ -104,20 +104,6 @@ Ensure `.env` files are never committed to the public repository.
 
 ---
 
-## Contributing
-
-Contributions are always welcome! If you'd like to contribute:
-
-1. Fork the repository  
-2. Create your feature branch (`git checkout -b feature/my-new-feature`)  
-3. Commit your changes (`git commit -am 'Add new feature'`)  
-4. Push the branch (`git push origin feature/my-new-feature`)  
-5. Open a Pull Request describing your changes
-
-Please adhere to code style and best practices. Make sure your changes pass all existing tests.
-
----
-
 ## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
