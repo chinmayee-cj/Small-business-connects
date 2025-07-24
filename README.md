@@ -101,7 +101,8 @@ Ensure `.env` files are never committed to the public repository.
 - Create and manage your business portfolio and showcase.
 - Offer and manage on-demand services, and participate in the business marketplace.
 - Monitor business analytics through content management sections.
-![image](https://github.com/user-attachments/assets/897bb1fb-59aa-4aaa-a7f0-dab51ec7da28)
+
+![image](https://github.com/user-attachments/assets/e35393d8-cec8-4f4d-b0bc-bb8b6c0972a0)
 
 ---
 
