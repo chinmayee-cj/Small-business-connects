@@ -4,38 +4,9 @@ A MERN stack web application designed to enable small and medium businesses to c
 
 ---
 
-## Table of Contents
-
-- [About the Project](#about-the-project)  
-- [Features](#features)  
-- [Technology Stack](#technology-stack)  
-- [Folder Structure](#folder-structure)  
-- [Getting Started](#getting-started)  
-- [Environment Variables](#environment-variables)  
-- [Usage](#usage)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)  
-
----
-
 ## About the Project
 
 Small Business Connects provides a platform for businesses to manage internal teams and permissions, build their digital portfolios, connect with other businesses, manage content and analytics data, and facilitate service exchanges within a marketplace ecosystem. The platform fosters collaboration and growth opportunities among diverse businesses in a modern, intuitive dashboard.
-
----
-
-## Features
-
-- User registration and login authentication  
-- Role and permission management across users  
-- Business portfolio and showcase management  
-- On-demand & home service listings and administration  
-- Marketplace for service and product exchange  
-- Content management and business analytics input  
-- Company profile customization (including logo and certificates)  
-- Responsive design powered by Tailwind CSS  
-- Seamless integration between frontend React app and backend Express server
 
 ---
 
