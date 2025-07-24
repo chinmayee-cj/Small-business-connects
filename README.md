@@ -102,7 +102,7 @@ Ensure `.env` files are never committed to the public repository.
 - Offer and manage on-demand services, and participate in the business marketplace.
 - Monitor business analytics through content management sections.
 
-![image](https://github.com/user-attachments/assets/e35393d8-cec8-4f4d-b0bc-bb8b6c0972a0)
+![WhatsApp Image 2025-07-24 at 12 04 47](https://github.com/user-attachments/assets/0fcc76c0-de9f-4d0d-8144-7594731f0524)
 
 ---
 
