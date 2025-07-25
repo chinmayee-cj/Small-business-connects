@@ -12,3 +12,4 @@ const connectDB = (url) => {
 };
 
 export default connectDB;
+// © 2025 Chinmayee C J. All rights reserved.
