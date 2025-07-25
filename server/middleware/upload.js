@@ -35,3 +35,4 @@ const fileFilter = (req, file, cb) => {
 const upload = multer({ storage, fileFilter });
 
 export default upload;
+// © 2025 Chinmayee C J. All rights reserved.
