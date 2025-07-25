@@ -1,4 +1,4 @@
-# 🚀✨ Small Business Connects ✨🚀
+# 🚀 Small Business Connects 🚀
 
 > Where **SMBs** unite, manage teams, showcase brands, and thrive—  
 > all in one beautiful, sleek platform.
