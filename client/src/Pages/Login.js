@@ -110,3 +110,4 @@ const Login = () => {
 };
 
 export default Login;
+// © 2025 Chinmayee C J. All rights reserved.
