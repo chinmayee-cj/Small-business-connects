@@ -49,3 +49,4 @@ const UserManagement = () => {
 };
 
 export default UserManagement;
+// © 2025 Chinmayee C J. All rights reserved.
