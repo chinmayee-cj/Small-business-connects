@@ -48,3 +48,4 @@ const ShowcaseManagement = () => {
 };
 
 export default ShowcaseManagement;
+// © 2025 Chinmayee C J. All rights reserved.
