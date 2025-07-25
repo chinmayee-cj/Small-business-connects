@@ -53,3 +53,5 @@ const BarChartCard = ({ heading, labels, data, colors }) => {
 };
 
 export default BarChartCard;
+// © 2025 Chinmayee C J. All rights reserved.
+
