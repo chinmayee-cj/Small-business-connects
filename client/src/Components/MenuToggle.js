@@ -18,3 +18,4 @@ const MenuToggle = ({ showMenu, handleMenuToggle }) => {
 };
 
 export default MenuToggle;
+// © 2025 Chinmayee C J. All rights reserved.
