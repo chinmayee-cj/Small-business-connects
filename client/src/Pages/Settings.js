@@ -176,3 +176,4 @@ const Settings = () => {
 };
 
 export default Settings;
+// © 2025 Chinmayee C J. All rights reserved.
