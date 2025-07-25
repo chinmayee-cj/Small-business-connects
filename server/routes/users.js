@@ -1,5 +1,3 @@
-// server/routes/users.js
-
 import express from "express";
 import User from "../mongodb/models/register.js";
 import upload from "../middleware/upload.js";
@@ -60,3 +58,4 @@ router.post(
 );
 
 export default router;
+// © 2025 Chinmayee C J. All rights reserved.
