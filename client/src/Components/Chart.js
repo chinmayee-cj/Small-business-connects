@@ -92,3 +92,5 @@ const ChartCard = ({ heading, fields }) => {
 };
 
 export default ChartCard;
+// © 2025 Chinmayee C J. All rights reserved.
+
