@@ -70,8 +70,7 @@ The dashboard is your starting point—bringing together everything you need:
 
 
 ![WhatsApp Image 2025-07-24 at 12 04 47](https://github.com/user-attachments/assets/8cafaa8c-0614-4682-a969-4cf52efd9cd5)
-![WhatsApp Image 2025-07-25 at 12 41 27 (1)](https://github.com/user-attachments/assets/263086de-8a05-47a7-84b7-c263221c73ab)
-![WhatsApp Image 2025-07-25 at 12 41 27](https://github.com/user-attachments/assets/d790b087-508d-49fd-853b-cde0fd069d65)
+![WhatsApp Image 2025-07-25 at 12 41 28](https://github.com/user-attachments/assets/358cc264-1007-415d-beb6-41c271fb43a6)
 ![WhatsApp Image 2025-07-25 at 12 41 27 (1)](https://github.com/user-attachments/assets/dc17e181-f6e2-47ea-9142-ca5eafd94c0c)
 
 ## 🚦 Get Started FAST
