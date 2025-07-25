@@ -29,3 +29,4 @@ const Card = ({ title, subtitle, icon, color }) => {
 };
 
 export default Card;
+// © 2025 Chinmayee C J. All rights reserved.
