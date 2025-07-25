@@ -44,8 +44,8 @@ The dashboard is your starting point—bringing together everything you need:
 |:----------------:|:--------------:|:-----------------:|:---------------:|:-----------------:|
 | React.js         | Node.js        | MongoDB w/ Mongoose| Axios           | React Router      |
 | Tailwind CSS     | Express.js     |                   |                 |                   |
-|                  |                |                   |                 |                   |
-| 🛠️ Config: .env via dotenv |
+
+
 
 ---
 
@@ -69,6 +69,9 @@ The dashboard is your starting point—bringing together everything you need:
 
 
 ---
+
+
+![WhatsApp Image 2025-07-24 at 12 04 47](https://github.com/user-attachments/assets/8cafaa8c-0614-4682-a969-4cf52efd9cd5)
 
 ## 🚦 Get Started FAST
 
