@@ -48,3 +48,4 @@ const CustomerManagement = () => {
 };
 
 export default CustomerManagement;
+// © 2025 Chinmayee C J. All rights reserved.
