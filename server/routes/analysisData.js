@@ -4,7 +4,7 @@ import AnalysisData from "../mongodb/models/AnalysisData.js";
 
 const router = express.Router();
 
-// POST: Create or update analytics data for a date (per user)
+
 // POST: Create or update analytics data for a date (per user)
 router.post("/", async (req, res) => {
   try {
@@ -93,3 +93,4 @@ router.get("/", async (req, res) => {
 });
 
 export default router;
+// © 2025 Chinmayee C J. All rights reserved.
