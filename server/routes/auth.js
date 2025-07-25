@@ -1,4 +1,3 @@
-// server/routes/auth.js
 import express from "express";
 import User from "../mongodb/models/register.js";
 import bcrypt from "bcrypt";
@@ -63,3 +62,4 @@ router.post("/register", async (req, res) => {
 });
 
 export default router;
+// © 2025 Chinmayee C J. All rights reserved.
