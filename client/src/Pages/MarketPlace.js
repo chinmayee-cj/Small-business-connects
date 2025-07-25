@@ -89,3 +89,4 @@ const MarketPlace = () => {
 };
 
 export default MarketPlace;
+// © 2025 Chinmayee C J. All rights reserved.
