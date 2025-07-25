@@ -51,7 +51,20 @@ The dashboard is your starting point—bringing together everything you need:
 
 ## 🗂️ Project Structure
 
-<pre> 📦 Small-business-connects ├── 📁 client # 🌐 React Frontend │ └── 📁 src │ ├── 📁 Assets # 🎨 Images, logos │ ├── 📁 Components # 🧩 Reusable UI blocks │ └── 📁 Pages # 📄 Views (Login, Register, Dashboard, Settings) │ ├── 📁 server # 🚦 Node.js + Express Backend │ ├── 📁 models # 🗄️ MongoDB Schemas │ ├── 📁 middleware # 🛡️ Auth, error handling │ ├── 📁 routes # 🔗 API Endpoints │ └── 📁 uploads # 📁 Uploaded files (logo, certificate) [ignored in Git] │ ├── .gitignore ├── package.json └── README.md </pre>
+<pre> 📦 Small-business-connects
+  ├── 📁 client # 🌐 React Frontend 
+  │  └── 📁 src 
+  │  ├── 📁 Assets # 🎨 Images, logos 
+  │  ├── 📁 Components # 🧩 Reusable UI blocks 
+  │  └── 📁 Pages # 📄 Views (Login, Register, Dashboard, Settings) 
+  ├── 📁 server # 🚦 Node.js + Express Backend 
+  │  ├── 📁 models # 🗄️ MongoDB Schemas 
+  │  ├── 📁 middleware # 🛡️ Auth, error handling 
+  │  ├── 📁 routes # 🔗 API Endpoints 
+  └── 📁 uploads # 📁 Uploaded files (logo, certificate) [ignored in Git] 
+  ├── .gitignore 
+  ├── package.json 
+  └── README.md </pre>
 
 ---
 
