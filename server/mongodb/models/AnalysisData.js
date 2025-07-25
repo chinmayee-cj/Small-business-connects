@@ -1,4 +1,3 @@
-// server/models/AnalysisData.js
 import mongoose from "mongoose";
 const Schema = mongoose.Schema;
 
@@ -21,3 +20,4 @@ const AnalysisDataSchema = new Schema({
 
 const AnalysisData = mongoose.model("AnalysisData", AnalysisDataSchema);
 export default AnalysisData;
+// © 2025 Chinmayee C J. All rights reserved.
