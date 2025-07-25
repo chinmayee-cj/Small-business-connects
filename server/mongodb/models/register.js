@@ -40,3 +40,4 @@ const User = new mongoose.Schema(
 
 const model = mongoose.model("userData", User);
 export default model;
+// © 2025 Chinmayee C J. All rights reserved.
