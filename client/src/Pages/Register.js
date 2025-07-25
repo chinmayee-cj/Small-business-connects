@@ -163,3 +163,5 @@ const Register = () => {
 };
 
 export default Register;
+// © 2025 Chinmayee C J. All rights reserved.
+
